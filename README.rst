@@ -17,7 +17,10 @@ Team members:
 How to Use
 ----------
 
+.. code-block:: bash
+
   $ pip install -r requirements.txt
+  
   $ python app.py
 
 Logic for Problem 2 (b)
