@@ -13,6 +13,5 @@ Team members:
 Problem Statement
 -----------------
 
-TBD
 Measurements using the Very Long Baseline Array in 2009 found velocities as large as 254 km/s (570,000 mph) for stars at the outer edge of the Milky Way.so taking the value of c=254 km/s 
-z=((1+v/c)
+z=((1+v/c)/(1-v/c))-1
