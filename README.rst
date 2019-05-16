@@ -10,6 +10,11 @@ Team members:
 6) Jai Luthra
 7) Shreyas Bapat
 
+How to Use
+----------
+1. Install all requirements.
+2. Run `python app.py`
+
 Problem 2 (b) ka logic
 ----------------------
 
